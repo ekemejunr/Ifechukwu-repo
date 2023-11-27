@@ -1,0 +1,12 @@
+i,Mksh is a powerful KornShell implementation that is known for its extensive feature set and support for command-line editing and history expansion. It is a popular choice for system administrators and power users who need a versatile and feature-rich shell.
+
+2.Ash is a lightweight Bourne shell implementation that is designed for speed and efficiency. It is a good choice for users who need a fast and responsive shell, or for environments where resources are limited.
+
+3.Dash is a very small and fast Almquist shell implementation that is designed to be minimal and easy to use. It is a good choice for users who need a simple and easy-to-learn shell, or for environments where space is limited.
+
+4.Rc is a simple and flexible Plan 9 shell implementation that is known for its elegant design and powerful scripting capabilities. It is a good choice for users who need a shell that is easy to customize and extend.
+
+5.Tenex c shell is a powerful C shell implementation that is known for its extensive feature set and support for command-line editing and history expansion. It is a good choice for users who need a versatile and feature-rich shell, and who are familiar with C programming.
+
+Each shell script has it own different use and command and should not be mistaken for each other
+
